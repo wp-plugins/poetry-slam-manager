@@ -3,7 +3,7 @@
 Plugin Name: Poetry Slam Manager
 Version: 0.1
 Plugin URI: http://soyrabbit.com
-Description: Designed specifically for poetry slams. This plugin provides easy data entry, scorekeeping and publishing of slam results to blog posts and pages, as well as optional Twitter updates of slam results in real time.  Easy to use - scores can be entered quickly and easily from the front end of the website by authors who are logged in.  Automatically calculates scores and time penalties - can choose from multiple slam formats, as well as allowing the users to create custom slam formats.
+Description: Designed specifically for poetry slams. This plugin provides easy data entry, scorekeeping and publishing of slam results to blog posts and pages.  Easy to use - scores can be entered quickly and easily from the front end of the website by authors who are logged in.  Automatically calculates scores and time penalties - can choose from multiple slam formats, as well as allowing the users to create custom slam formats.
 Author: soyrabbit
 Author URI: http://soyrabbit.com	
 

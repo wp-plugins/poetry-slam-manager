@@ -3,7 +3,7 @@ Contributors: soyrabbit
 Tags: poetry, slam
 Requires at least: 3.0
 Tested up to: 3.1
-Stable tag: 1.0.3
+Stable tag: 1.0.4
 
 A plugin to be used for scorekeeping at poetry slams.  Supports most slam formats.
 
